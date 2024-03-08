@@ -95,3 +95,26 @@ body {
 .form__submit:hover {
     background-color: #18c1e1;
 }
+
+
+.entry {
+    /* border: 2px solid rebeccapurple; */
+    margin-top: 50px;
+}
+
+.entry__title {
+    /* border: 2px solid aquamarine; */
+    display: inline;
+    font-size: 18px;
+}
+
+.entry__date {
+    /* border: 2px solid teal; */
+    color: #5c6b70;
+}
+
+.entry__content {
+    /* border: 2px solid orangered; */
+    font-size: 16px;
+    line-height: 150%;
+}
